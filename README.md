@@ -56,7 +56,21 @@ Example:
 <library theme_id="business" component_id="3001" type="GoHands"/>
 <library theme_id="business" component_id="1001" type="GoBehindBody"/>
 <library theme_id="business" component_id="3019" type="GoUpper"/>
+    
+
 <library theme_id="business" component_id="3046" type="GoLower"/>
 <library theme_id="business" component_id="3002" type="GoFeet"/>
 </cc_char>
  ```
+ ### GAWrapper is going shut down next lvm clone
+ GAWrapper is closing down of LVM
+ 
+ ### Wrapper Animations
+ cc.swf
+ player.swf
+ go_full.swf
+ ccbrowser.swf
+ 
+ ### Wrapper Waleed 1.2.2
+ is going Wrapper Waleed over next update
+
